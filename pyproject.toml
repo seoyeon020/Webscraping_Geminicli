@@ -1,0 +1,18 @@
+[project]
+name = "webscraping-gemini"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "koreanize-matplotlib",
+    "loguru",
+    "wordcloud",
+]

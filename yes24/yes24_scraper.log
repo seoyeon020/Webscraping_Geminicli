@@ -1,0 +1,92 @@
+2026-02-12 21:16:38 | INFO     | __main__:main:145 - Starting the Yes24 scraper job.
+2026-02-12 21:16:38 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 1...
+2026-02-12 21:16:39 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 1. Status code: 200
+2026-02-12 21:16:39 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 1.
+2026-02-12 21:16:39 | INFO     | __main__:fetch_book_data:134 - Successfully parsed 24 books from page 1.
+2026-02-12 21:16:39 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 2...
+2026-02-12 21:16:40 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 2. Status code: 200
+2026-02-12 21:16:40 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 2.
+2026-02-12 21:16:40 | INFO     | __main__:fetch_book_data:134 - Successfully parsed 24 books from page 2.
+2026-02-12 21:16:40 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 3...
+2026-02-12 21:16:41 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 3. Status code: 200
+2026-02-12 21:16:41 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 3.
+2026-02-12 21:16:41 | INFO     | __main__:fetch_book_data:134 - Successfully parsed 24 books from page 3.
+2026-02-12 21:16:41 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 4...
+2026-02-12 21:16:42 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 4. Status code: 200
+2026-02-12 21:16:42 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 4.
+2026-02-12 21:16:42 | INFO     | __main__:fetch_book_data:134 - Successfully parsed 24 books from page 4.
+2026-02-12 21:16:42 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 5...
+2026-02-12 21:16:42 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 5. Status code: 200
+2026-02-12 21:16:43 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 5.
+2026-02-12 21:16:43 | INFO     | __main__:fetch_book_data:134 - Successfully parsed 24 books from page 5.
+2026-02-12 21:16:43 | INFO     | __main__:main:164 - Total books scraped: 120
+2026-02-12 21:16:43 | SUCCESS  | __main__:main:174 - Successfully saved 120 records to yes24/data\yes24_ai.csv
+2026-02-12 21:48:52 | INFO     | __main__:main:150 - Starting the Yes24 scraper job.
+2026-02-12 21:48:52 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 1...
+2026-02-12 21:48:52 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 1. Status code: 200
+2026-02-12 21:48:52 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 1.
+2026-02-12 21:48:52 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 1.
+2026-02-12 21:48:52 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 2...
+2026-02-12 21:48:53 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 2. Status code: 200
+2026-02-12 21:48:53 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 2.
+2026-02-12 21:48:53 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 2.
+2026-02-12 21:48:53 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 3...
+2026-02-12 21:48:54 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 3. Status code: 200
+2026-02-12 21:48:54 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 3.
+2026-02-12 21:48:54 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 3.
+2026-02-12 21:48:54 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 4...
+2026-02-12 21:48:54 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 4. Status code: 200
+2026-02-12 21:48:54 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 4.
+2026-02-12 21:48:54 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 4.
+2026-02-12 21:48:54 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 5...
+2026-02-12 21:48:55 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 5. Status code: 200
+2026-02-12 21:48:55 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 5.
+2026-02-12 21:48:55 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 5.
+2026-02-12 21:48:55 | INFO     | __main__:main:169 - Total books scraped: 120
+2026-02-12 21:48:55 | SUCCESS  | __main__:main:179 - Successfully saved 120 records to yes24/data\yes24_ai.csv
+2026-02-12 21:54:14 | INFO     | __main__:main:150 - Starting the Yes24 scraper job.
+2026-02-12 21:54:14 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 1...
+2026-02-12 21:54:15 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 1. Status code: 200
+2026-02-12 21:54:15 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 1.
+2026-02-12 21:54:15 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 1.
+2026-02-12 21:54:15 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 2...
+2026-02-12 21:54:15 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 2. Status code: 200
+2026-02-12 21:54:15 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 2.
+2026-02-12 21:54:15 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 2.
+2026-02-12 21:54:15 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 3...
+2026-02-12 21:54:16 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 3. Status code: 200
+2026-02-12 21:54:16 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 3.
+2026-02-12 21:54:16 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 3.
+2026-02-12 21:54:16 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 4...
+2026-02-12 21:54:17 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 4. Status code: 200
+2026-02-12 21:54:17 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 4.
+2026-02-12 21:54:17 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 4.
+2026-02-12 21:54:17 | INFO     | __main__:fetch_book_data:70 - Attempting to fetch data for page 5...
+2026-02-12 21:54:17 | SUCCESS  | __main__:fetch_book_data:73 - Successfully fetched data for page 5. Status code: 200
+2026-02-12 21:54:17 | INFO     | __main__:fetch_book_data:77 - Found 24 items on page 5.
+2026-02-12 21:54:17 | INFO     | __main__:fetch_book_data:139 - Successfully parsed 24 books from page 5.
+2026-02-12 21:54:17 | INFO     | __main__:main:169 - Total books scraped: 120
+2026-02-12 21:54:17 | SUCCESS  | __main__:main:179 - Successfully saved 120 records to yes24/data\yes24_ai.csv
+2026-02-12 22:08:25 | INFO     | __main__:main:149 - Yes24 스크래퍼 작업을 시작합니다.
+2026-02-12 22:08:25 | INFO     | __main__:fetch_book_data:69 - 1 페이지의 데이터를 가져오는 중...
+2026-02-12 22:08:25 | SUCCESS  | __main__:fetch_book_data:72 - 1 페이지 데이터를 성공적으로 가져왔습니다. 상태 코드: 200
+2026-02-12 22:08:25 | INFO     | __main__:fetch_book_data:76 - 1 페이지에서 24개의 아이템을 찾았습니다.
+2026-02-12 22:08:25 | INFO     | __main__:fetch_book_data:138 - 1 페이지에서 24권의 도서 정보를 성공적으로 파싱했습니다.
+2026-02-12 22:08:25 | INFO     | __main__:fetch_book_data:69 - 2 페이지의 데이터를 가져오는 중...
+2026-02-12 22:08:26 | SUCCESS  | __main__:fetch_book_data:72 - 2 페이지 데이터를 성공적으로 가져왔습니다. 상태 코드: 200
+2026-02-12 22:08:26 | INFO     | __main__:fetch_book_data:76 - 2 페이지에서 24개의 아이템을 찾았습니다.
+2026-02-12 22:08:26 | INFO     | __main__:fetch_book_data:138 - 2 페이지에서 24권의 도서 정보를 성공적으로 파싱했습니다.
+2026-02-12 22:08:26 | INFO     | __main__:fetch_book_data:69 - 3 페이지의 데이터를 가져오는 중...
+2026-02-12 22:08:26 | SUCCESS  | __main__:fetch_book_data:72 - 3 페이지 데이터를 성공적으로 가져왔습니다. 상태 코드: 200
+2026-02-12 22:08:26 | INFO     | __main__:fetch_book_data:76 - 3 페이지에서 24개의 아이템을 찾았습니다.
+2026-02-12 22:08:27 | INFO     | __main__:fetch_book_data:138 - 3 페이지에서 24권의 도서 정보를 성공적으로 파싱했습니다.
+2026-02-12 22:08:27 | INFO     | __main__:fetch_book_data:69 - 4 페이지의 데이터를 가져오는 중...
+2026-02-12 22:08:27 | SUCCESS  | __main__:fetch_book_data:72 - 4 페이지 데이터를 성공적으로 가져왔습니다. 상태 코드: 200
+2026-02-12 22:08:27 | INFO     | __main__:fetch_book_data:76 - 4 페이지에서 24개의 아이템을 찾았습니다.
+2026-02-12 22:08:27 | INFO     | __main__:fetch_book_data:138 - 4 페이지에서 24권의 도서 정보를 성공적으로 파싱했습니다.
+2026-02-12 22:08:27 | INFO     | __main__:fetch_book_data:69 - 5 페이지의 데이터를 가져오는 중...
+2026-02-12 22:08:28 | SUCCESS  | __main__:fetch_book_data:72 - 5 페이지 데이터를 성공적으로 가져왔습니다. 상태 코드: 200
+2026-02-12 22:08:28 | INFO     | __main__:fetch_book_data:76 - 5 페이지에서 24개의 아이템을 찾았습니다.
+2026-02-12 22:08:28 | INFO     | __main__:fetch_book_data:138 - 5 페이지에서 24권의 도서 정보를 성공적으로 파싱했습니다.
+2026-02-12 22:08:28 | INFO     | __main__:main:168 - 총 스크랩된 도서 수: 120
+2026-02-12 22:08:28 | SUCCESS  | __main__:main:178 - yes24/data\yes24_ai.csv에 120개의 레코드를 성공적으로 저장했습니다.
