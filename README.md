@@ -5,3 +5,5 @@
 
 ### starbucks 관련 요청하는 프롬프트
 @C:\webscraping_gemini\starbucks_stores\agent_prd_scraping.md 내용을 분석하여 데이터를 수집하고 csv 파일을 생성해 주세요
+
+@C:\webscraping_gemini\starbucks_stores\agent_prd_eda.md 문서에 따라 데이터 전처리와 분석을 하고 결과를 마크다운 파일로 저장하세요.
