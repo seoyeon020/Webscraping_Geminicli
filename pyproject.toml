@@ -15,4 +15,7 @@ dependencies = [
     "koreanize-matplotlib",
     "loguru",
     "wordcloud",
+    "streamlit>=1.54.0",
+    "folium>=0.20.0",
+    "streamlit-folium>=0.26.1",
 ]
