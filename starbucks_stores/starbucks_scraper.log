@@ -1,0 +1,35 @@
+2026-02-13 13:18:31.768 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 01
+2026-02-13 13:18:33.054 | INFO     | __main__:get_starbucks_stores:81 - Found 675 stores for sido_code: 01
+2026-02-13 13:18:33.055 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 02
+2026-02-13 13:18:33.765 | INFO     | __main__:get_starbucks_stores:81 - Found 71 stores for sido_code: 02
+2026-02-13 13:18:33.766 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 03
+2026-02-13 13:18:34.373 | INFO     | __main__:get_starbucks_stores:81 - Found 94 stores for sido_code: 03
+2026-02-13 13:18:34.374 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 04
+2026-02-13 13:18:34.901 | INFO     | __main__:get_starbucks_stores:81 - Found 73 stores for sido_code: 04
+2026-02-13 13:18:34.902 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 05
+2026-02-13 13:18:35.367 | INFO     | __main__:get_starbucks_stores:81 - Found 146 stores for sido_code: 05
+2026-02-13 13:18:35.368 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 06
+2026-02-13 13:18:35.690 | INFO     | __main__:get_starbucks_stores:81 - Found 35 stores for sido_code: 06
+2026-02-13 13:18:35.690 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 07
+2026-02-13 13:18:36.096 | INFO     | __main__:get_starbucks_stores:81 - Found 92 stores for sido_code: 07
+2026-02-13 13:18:36.097 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 08
+2026-02-13 13:18:36.940 | INFO     | __main__:get_starbucks_stores:81 - Found 514 stores for sido_code: 08
+2026-02-13 13:18:36.941 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 09
+2026-02-13 13:18:37.406 | INFO     | __main__:get_starbucks_stores:81 - Found 43 stores for sido_code: 09
+2026-02-13 13:18:37.406 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 10
+2026-02-13 13:18:37.843 | INFO     | __main__:get_starbucks_stores:81 - Found 81 stores for sido_code: 10
+2026-02-13 13:18:37.844 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 11
+2026-02-13 13:18:38.190 | INFO     | __main__:get_starbucks_stores:81 - Found 64 stores for sido_code: 11
+2026-02-13 13:18:38.191 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 12
+2026-02-13 13:18:38.539 | INFO     | __main__:get_starbucks_stores:81 - Found 37 stores for sido_code: 12
+2026-02-13 13:18:38.540 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 13
+2026-02-13 13:18:39.077 | INFO     | __main__:get_starbucks_stores:81 - Found 44 stores for sido_code: 13
+2026-02-13 13:18:39.077 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 14
+2026-02-13 13:18:39.400 | INFO     | __main__:get_starbucks_stores:81 - Found 54 stores for sido_code: 14
+2026-02-13 13:18:39.400 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 15
+2026-02-13 13:18:39.747 | INFO     | __main__:get_starbucks_stores:81 - Found 41 stores for sido_code: 15
+2026-02-13 13:18:39.748 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 16
+2026-02-13 13:18:40.090 | INFO     | __main__:get_starbucks_stores:81 - Found 35 stores for sido_code: 16
+2026-02-13 13:18:40.091 | INFO     | __main__:get_starbucks_stores:74 - Requesting stores for sido_code: 17
+2026-02-13 13:18:40.402 | INFO     | __main__:get_starbucks_stores:81 - Found 15 stores for sido_code: 17
+2026-02-13 13:18:40.519 | INFO     | __main__:<module>:96 - Successfully saved 2114 stores to starbucks_stores/data/starbucks_stores.csv
